@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+.card {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 2px;
+}
+
+  
+  @font-face {
+    font-family: 'Halbfet';
+    src: url('./assets/fonts/TestSöhneBreit-Halbfett.otf') format('woff2'),
+         url('./assets/fonts/TestSöhneBreit-Halbfett.otf')format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Fett';
+    src: url('./assets/fonts/TestSöhne-Fett.otf') format('woff2'),
+         url('./assets/fonts/TestSöhne-Fett.otf')format('woff');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Kraftig';
+    src: url('./assets/fonts/TestSöhne-Kräftig.otf') format('woff2'),
+         url('./assets/fonts/TestSöhne-Kräftig.otf')format('woff');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Drevi';
+    src: url('./assets/fonts/TestSöhne-Dreiviertelfett.otf') format('woff2'),
+         url('./assets/fonts/TestSöhne-Dreiviertelfett.otf')format('woff');
+    font-weight: 100;
+    font-style: normal;
+  }
+  
