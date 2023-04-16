@@ -1,3 +1,17 @@
-.primary-bg {
-    background-color: #F3F5F7;
+@import '../../../sassvariables.scss';
+
+.ml-6 {
+    margin-left: 5rem;
+}
+.icon-img {
+    width: 25px;
+    height: 25px;
+    color: #647AA1;
+}
+.side-heading {
+    margin-left: -57px;
+    margin-top: 2px;
+    font-size: 20px;
+    font-family: 'Drevi';
+    color: $standadFontColor;
 }
